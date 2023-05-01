@@ -4,7 +4,7 @@
 
 - Atualmente estudando HTML e CSS
 
-- Meu portifólio: 
+- Meu portfólio: 
 
 <h3>Contatos:</h3>
 
