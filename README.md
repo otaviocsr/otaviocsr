@@ -19,7 +19,7 @@
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviocsr&layout=compact)](https://github.com/otaviocsr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviocsr)](https://github.com/otaviocsr/github-readme-stats)
 
 
 ![otaviocsr's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviocsr&show_icons=true&theme=transparent)
