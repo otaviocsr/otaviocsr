@@ -22,5 +22,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviocsr&layout=compact)](https://github.com/otaviocsr/github-readme-stats)
 
 
-![otaviocsr's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviocsr&show_icons=true&theme=dracula)
+![otaviocsr's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviocsr&show_icons=true&theme=transparent)
 
