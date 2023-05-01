@@ -2,7 +2,7 @@
 <hr>
 <h3 align="center">Estudante de Front-End</h3>
 
-- Atualmente estudando HTML e  CSS
+- Atualmente estudando HTML e CSS
 
 - Meu portifólio: 
 
