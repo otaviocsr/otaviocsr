@@ -4,21 +4,12 @@
 
 - Atualmente estudando HTML e CSS
 
-- Meu portfólio: 
+- Meu portfólio: https://otaviocsr.github.io/
 
 <h3>Contatos:</h3>
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ot%C3%A1vio-c%C3%A9sar-b59661211/)
 
-<h3>Linguagens e Ferramentas:</h3>
 
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviocsr)](https://github.com/otaviocsr/github-readme-stats)
-
-
-![otaviocsr's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviocsr&show_icons=true&theme=transparent)
 
